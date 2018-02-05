@@ -15,4 +15,4 @@ type and Enter **"touch .gitignore"** to create a .gitignore file.
 In that file write 
 
     Markup :  *node_modules/* or node_modules/
- (so all node_modules file will be ignore by git).
+ (so all node_modules file will be ignored by git).
