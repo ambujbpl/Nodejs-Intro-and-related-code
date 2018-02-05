@@ -11,6 +11,8 @@ git config --global user.name "Your Name".
 
 
 go to gitbash in the root of your repo then,
-type and Enter "touch .gitignore" to create a .gitignore file.
+type and Enter **"touch .gitignore"** to create a .gitignore file.
 In that file write 
-*node_modules/* or node_modules/ (so all node_modules file will be ignore by git).
+
+    Markup :  *node_modules/* or node_modules/
+ (so all node_modules file will be ignore by git).
