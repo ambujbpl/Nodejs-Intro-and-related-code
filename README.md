@@ -1,5 +1,5 @@
 # Nodejs-Intro-and-related-code and How to use Git
-This repo related to basic learning of Node.js
+This repo related to basic learning of Node.js.
 
 ##1. If You want to change your Gitbash(Git) creedential
 
