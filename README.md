@@ -1,13 +1,13 @@
 # Nodejs-Intro-and-related-code and How to use Git
 This repo related to basic learning of Nodejs.
-##1. If You want to change your Gitbash(Git) creedential
+## If You want to change your Gitbash(Git) creedential
 
 
 Open gitbash and type
 git config --global user.email "Your email id"
 git config --global user.name "Your Name".
 
-##2. For gitignore file add in our repo
+## For gitignore file add in our repo
 
 
 go to gitbash in the root of your repo then,
