@@ -16,3 +16,18 @@ In that file write
 
     Markup :  *node_modules/* or node_modules/
  (so all node_modules file will be ignored by git).
+
+## Author
+
+Ambuj Dubey(www.ambujdubey.cf)
+
+## Contact
+
+Web: www.ambujdubey.cf or https://ambujbpl.github.io
+
+Other Website : http://ambujdubey.herokuapp.com
+
+Email: ambujdubey@outlook.com
+
+Twitter: https://twitter.com/@mbujdubey
+
