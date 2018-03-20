@@ -27,7 +27,6 @@ Web: www.ambujdubey.cf or https://ambujbpl.github.io
 
 Other Website : http://ambujdubey.herokuapp.com
 
-Email: ambujdubey@outlook.com
+Email: ambujdubey@outlook.in
 
 Twitter: https://twitter.com/@mbujdubey
-
