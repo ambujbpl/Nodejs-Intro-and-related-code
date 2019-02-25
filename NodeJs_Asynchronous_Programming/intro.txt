@@ -1,0 +1,5 @@
+There is mainly 4 way to acheive Asynchronous programming in Node JS
+1. Using Callback.(very old Approach)
+2. Promises.(old Approach)
+3. Generators.(not used ES6)
+4. async and await (Mostly used now a day's).
